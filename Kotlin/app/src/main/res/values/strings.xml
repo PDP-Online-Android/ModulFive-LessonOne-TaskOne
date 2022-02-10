@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="mobile_game">Mobile Game</string>
+    <string name="play_mobile_game_in_your_phone">Play Mobile Game in your Phone</string>
+    <string name="say_hellp_to_global_top_up">Say Hellp to Global Top Up</string>
+    <string name="details">Send mobile top-up to more than 500 networks in over 140 countries.</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+</resources>
